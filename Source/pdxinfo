@@ -1,0 +1,7 @@
+name=Fonts
+author=Orllewin
+description=Fonts ported to Playdate by Orllewin
+bundleID=orllewin.coracle.playdate.fonts
+version=1.0
+buildNumber=1
+imagePath=launch_assets/
